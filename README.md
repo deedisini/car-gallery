@@ -58,7 +58,7 @@ The project was created for learning purposes, with the implementation focused o
 
 ## Author
 
-**Darren Immanuel Sumampouw**
+**Darren S.**
 
 University student interested in software development, visual design, and automotive technology.
 
