@@ -40,8 +40,6 @@ Through this project, I practiced the fundamentals of developing interfaces with
 
 The project also helped me understand how individual components work together to form a complete interactive web interface.
 
-> Replace the image paths above with the actual screenshots included in the repository.
-
 ## Future Improvements
 
 Possible improvements for the project include:
